@@ -69,6 +69,28 @@ This provides a simple protective mechanism for abnormal operating conditions.
 
 [View Project Documentation](Motor-Predictive-Maintenance.pdf)
 
+## Project Images
+
+### System Architecture
+
+![System Architecture](images/system-architecture.png)
+
+### Sensor Wiring
+
+![Sensor Wiring](images/sensor-wiring.png)
+
+### Motor Setup
+
+![Motor Setup](images/motor-setup.png)
+
+### Hardware Setup
+
+![Hardware Setup](images/hardware-setup.png)
+
+### Blynk Dashboard
+
+![Blynk Dashboard](images/blynk-dashboard.png)
+
 ## Project Status
 
 The project demonstrates a prototype approach to low-cost motor condition monitoring and IoT-enabled maintenance.
